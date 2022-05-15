@@ -10,6 +10,8 @@ This repository includes three case studies for the course Applications of Artif
 
 **2. Topic Description**
 
+![image](https://github.com/sonpnt/Machine-Learning-for-Analytics/blob/main/Descriptive%20analytics%20for%20waterjet%20cutting/descriptive_waterjet.png)
+
 **3. Learning points**
 
 
