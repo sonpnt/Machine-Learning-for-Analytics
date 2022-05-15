@@ -7,6 +7,7 @@ This repository includes three case studies for the course Applications of Artif
 - Visualization of multi-dimensional dataset 
 - Recognize patterns in data through visual inspection
 - Provide recommendations based on the insights from data analytics
+
 **2. Topic Description**
 
 **3. Learning points**
