@@ -28,7 +28,8 @@ Sunflower Bikes is a leading bike manufacturer in Germany. To enhance its market
 Over the last year, the company has gathered data for two key components of finished bikes of their flagship product the “SuperWatt” bike. The data for the first set of features is gathered after the production of the frame. The main features measured for each frame as well as their nominal values are depicted in Figure 2. Deviations from the nominal values in any direction are undesirable.
 <img src="https://github.com/sonpnt/Machine-Learning-for-Analytics/blob/main/Unsupervised%20learning%20for%20failure%20mode%20detection/unsupervised_bike.png" width="800" />
 
-Task: 
+Task:
+
 a. Use the machine learning methods to reveal the patterns hidden in the data. Explain the purpose of the methods, justify the order in which you apply the methods, and the selection of parameters used for the methods.
 
 b. Analyze the obtained patterns quantitatively and visualize your results.
