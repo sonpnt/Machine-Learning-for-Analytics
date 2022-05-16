@@ -30,8 +30,11 @@ Over the last year, the company has gathered data for two key components of fini
 
 Task: 
 a. Use the machine learning methods to reveal the patterns hidden in the data. Explain the purpose of the methods, justify the order in which you apply the methods, and the selection of parameters used for the methods.
+
 b. Analyze the obtained patterns quantitatively and visualize your results.
+
 c. Discussthemanagerialimplicationsofyourfindingsandhowtheycanbeusedtoimprove the quality of the manufacturing process.
+
 d. Create the required deliverables. Consider the guidelines in the chapter “Effective oral presentation” of the book “Trees, maps, and theorems” when creating the presentation.
 
 ### Case 3. Supervised Learning for Data Driven Tomato Yield Prediction and Control of Greenhouses
