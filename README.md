@@ -23,8 +23,12 @@ Using the given dataset, support this effort by conducting a descriptive analyti
 - Provide recommendations based on the insights from data analytics
 
 **2. Topic Summary**
-
+Sunflower Bikes is a leading bike manufacturer in Germany. To enhance its market position in the rapidly growing European e-bike market (see Figure 1), the company wants to improve the quality of its bikes. One of the initial steps for the quality management group of the company is to better understand the current state of the production process and its output.
 <img src="https://github.com/sonpnt/Machine-Learning-for-Analytics/blob/main/Unsupervised%20learning%20for%20failure%20mode%20detection/unsupervised_statista.png" width="800" />
+Over the last year, the company has gathered data for two key components of finished bikes of their flagship product the “SuperWatt” bike. The data for the first set of features is gathered after the production of the frame. The main features measured for each frame as well as their nominal values are depicted in Figure 2. Deviations from the nominal values in any direction are undesirable.
+<img src="https://github.com/sonpnt/Machine-Learning-for-Analytics/blob/main/Unsupervised%20learning%20for%20failure%20mode%20detection/unsupervised_bike.png" width="800" />
+
+Task: 
 
 ### Case 3. Supervised Learning for Data Driven Tomato Yield Prediction and Control of Greenhouses
 
