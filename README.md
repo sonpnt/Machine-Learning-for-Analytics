@@ -46,6 +46,7 @@ c. Discuss the managerial implications of your findings and how they can be used
 
 #### 2. Topic Summary
 Kelby Company Ltd. is a multinational agriculture company with greenhouses in Spain and the Netherlands. In an effort to account for the trend of locally grown fruits and vegetables supported by many supermarket chains, Kelby Company Ltd. plans to establish a new large site in Germany. The company needs to decide on how much space in the greenhouses should be devoted to the different vegetables and how to control key parameters of how they operate the greenhouses. Advanced technology in modern greenhouses allows for computer climate control that permits a year-around production with up to six harvests per year.
+
 **Task:**
 - Using a dataset with 1,894 observations on different greenhouse inputs and their respective yields, create and train a neural network which predicts the yield of tomatoes per sqm given the features
 - Determine the optimal pesticide, applied irrigation, chosen inside temperature, and area devoted to tomato production that minimize the sum of all relevant costs
